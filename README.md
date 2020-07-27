@@ -1,4 +1,4 @@
-# MachineHack weekend hackathon- Energy Output Prediction
+# MachineHack weekend hackathon- Energy Output Prediction(Finished 16th out of 297 participants)
 Overview given by organizers:-
 
 Weekend hackathons are fun, aren't they! In our last weekend hackathon, we introduced a new and unique problem statement using UCI open dataset. But, we were big-time disappointed as some of the participants ended up probing the leaderboard. However, we decided to host an open UCI dataset competition again this weekend. So In this weekend hackathon, we have trained a machine learning model to perturb the target column instead of manually adding the noise. Yes, you heard it right, In this hackathon, we are challenging all the MachineHackers to capture our leaderboard's and prove their mettle by competing against MachineHack's AI.

@@ -1,7 +1,7 @@
 # MachineHack weekend hackathon- Energy Output Prediction(Finished 16th out of 297 participants)
 Overview given by organizers:-
 
-Weekend hackathons are fun, aren't they! In our last weekend hackathon, we introduced a new and unique problem statement using UCI open dataset. But, we were big-time disappointed as some of the participants ended up probing the leaderboard. However, we decided to host an open UCI dataset competition again this weekend. So In this weekend hackathon, we have trained a machine learning model to perturb the target column instead of manually adding the noise. Yes, you heard it right, In this hackathon, we are challenging all the MachineHackers to capture our leaderboard's and prove their mettle by competing against MachineHack's AI.
+This weekend, we have trained a machine learning model to perturb the target column instead of manually adding the noise. Yes, you heard it right, In this hackathon, we are challenging all the MachineHackers to capture our leaderboard's and prove their mettle by competing against MachineHack's AI.
 
 The dataset was collected from a Combined Cycle Power Plant over 6 years (2006-2011) when the power plant was set to work with a full load. Features consist of hourly average ambient variables Temperature (T), Ambient Pressure (AP), Relative Humidity (RH), and Exhaust Vacuum (V) to predict the net hourly electrical energy output (PE) of the plant.
 A combined-cycle power plant (CCPP) is composed of gas turbines (GT), steam turbines (ST), and heat recovery steam generators.
